@@ -10,7 +10,7 @@
         },
         "dnsNameForPublicIP" : {
             "type" : "string",
-            "defaultValue": "PADNS01"
+            "defaultValue": "pandev01"
         },
         "adminUserName": {
             "type": "string"
